@@ -29,25 +29,19 @@ This project is perfect for anyone looking to simplify the title generation proc
 | --- | --- |
 | Frontend | HTML, CSS, JavaScript |
 | Backend | Flask, Python |
-| Tools | Rich library, Flask-logging, LRU cache |
-| Libraries | NumPy, pandas, scikit-learn, gensim |
+| Tools | Rich library, Flask-logging |
+| Libraries | NumPy, pandas, scikit-learn |
 
 📁 **Project Structure**
 
 ```
-ai_title_generator/
+TITLE_GEN_FINAL_CODE/
 app.py
+dataset.csv
 title_generator.py
 index.html
 templates/
 index.html
-static/
-css/
-styles.css
-js/
-script.js
-logs/
-error.log
 ```
 
 ⚙️ **How to Run**
